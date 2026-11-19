@@ -1,0 +1,9 @@
+.env
+docker/.env
+.pio/
+firmware/.pio/
+firmware/.vscode/
+*.elf
+*.bin
+__pycache__/
+*.pyc
